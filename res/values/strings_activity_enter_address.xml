@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="title_activity_enter_address">Enter Wallet Address</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_address">Address</string>
+    <string name="action_sign_in_register">Send</string>
+
+</resources>
