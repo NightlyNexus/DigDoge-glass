@@ -1,4 +1,4 @@
-package com.brianco.digdoge;
+package com.brianco.digdogeglass;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.view.inputmethod.BaseInputConnection;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
+import com.brianco.digdoge.MyGame;
 import com.google.android.glass.touchpad.Gesture;
 import com.google.android.glass.touchpad.GestureDetector;
 

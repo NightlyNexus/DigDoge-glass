@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.brianco.digdoge;
+package com.brianco.digdogeglass;
 
 public final class R {
     public static final class attr {
