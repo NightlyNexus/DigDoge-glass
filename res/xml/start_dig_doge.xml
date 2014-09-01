@@ -1,3 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<trigger keyword="@string/dig_doge">
-</trigger>
+<trigger command="PLAY_A_GAME"/>
